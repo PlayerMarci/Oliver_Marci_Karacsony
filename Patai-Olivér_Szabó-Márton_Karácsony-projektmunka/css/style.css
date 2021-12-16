@@ -1,0 +1,67 @@
+body{
+background-image: linear-gradient(#00216F 80%, #000000);
+background-size: cover;
+}
+#fejlec{
+height: 15%;
+width: 100%;
+background-color: #2953A5;
+border-style:groove;
+border-width: 5px;
+border-color: #A57C00;
+color: #A57C00;
+text-align:center;
+margin: auto;
+}
+
+#fejlec2{
+    text-align: center;
+    align-items: center;
+    height: 15%;
+    width: 99%;
+    margin: 0;
+    background-color: #A57C00;
+    border-style:groove;
+    border-width: 10px;
+    border-color: #A57C00;
+    color: #FAFAD2;
+    text-align:center;
+    }
+
+img {display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;}
+
+h1{
+font-size:300%;
+}
+
+#keret{
+padding: 30px 30px 30px 30px;
+background-color: #FAFAD2;
+color: #A57C00;
+font-family: "Comic Sans MS";
+margin-inline: 5%;
+}
+
+h2{
+font-size: 200%;
+}
+
+h3 {font-size: 150%; text-indent: 10px}
+p{
+text-align: justify; text-indent: 20px
+}
+
+#gomb {background-color: #2953A5;
+color: white;
+padding: 15px 32px;
+text-align: center;
+display: inline-block;
+font-size: 200%;
+margin: 30px 15px;
+cursor: pointer;}
+a {color: #ffffff}
+
+#bevezeto {font-style: italic;}
